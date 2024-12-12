@@ -1,0 +1,211 @@
+<div class="container">
+        <div class="row justify-content-center">
+          <div class="col-sm-12 col-md-12 col-lg-8 col-xl-8 col-xxl-7">
+            <div
+              id="footer-logo"
+              class="logo-slider owl-carousel owl-theme owl-loaded owl-drag"
+            >
+              <div class="owl-stage-outer">
+                <div
+                  class="owl-stage"
+                  style="
+                    transform: translate3d(-746px, 0px, 0px);
+                    transition: all;
+                    width: 2388px;
+                  "
+                >
+                  <div class="owl-item cloned" style="width: 149.2px">
+                    <div class="item">
+                      <div class="logo-box" style="padding-top: 10px">
+                        <img
+                          height="35"
+                          width="70"
+                          src="./NSP _ National Scholarship Portal_files/logo_nic.png"
+                        />
+                      </div>
+                    </div>
+                  </div>
+                  <div class="owl-item cloned" style="width: 149.2px">
+                    <div class="item">
+                      <div class="logo-box">
+                        <img
+                          src="./NSP _ National Scholarship Portal_files/mygov.png"
+                        />
+                      </div>
+                    </div>
+                  </div>
+                  <div class="owl-item cloned" style="width: 149.2px">
+                    <div class="item">
+                      <div class="logo-box">
+                        <img
+                          src="./NSP _ National Scholarship Portal_files/DBT.png"
+                        />
+                      </div>
+                    </div>
+                  </div>
+                  <div class="owl-item cloned" style="width: 149.2px">
+                    <div class="item">
+                      <div class="logo-box">
+                        <img
+                          src="./NSP _ National Scholarship Portal_files/indiagov.png"
+                        />
+                      </div>
+                    </div>
+                  </div>
+                  <div class="owl-item cloned" style="width: 149.2px">
+                    <div class="item">
+                      <div class="logo-box">
+                        <img
+                          src="./NSP _ National Scholarship Portal_files/di.png"
+                        />
+                      </div>
+                    </div>
+                  </div>
+                  <div class="owl-item active" style="width: 149.2px">
+                    <div class="item">
+                      <div class="logo-box">
+                        <img
+                          src="./NSP _ National Scholarship Portal_files/meity.png"
+                        />
+                      </div>
+                    </div>
+                  </div>
+                  <div class="owl-item active" style="width: 149.2px">
+                    <div class="item">
+                      <div class="logo-box" style="padding-top: 10px">
+                        <img
+                          height="35"
+                          width="70"
+                          src="./NSP _ National Scholarship Portal_files/logo_nic.png"
+                        />
+                      </div>
+                    </div>
+                  </div>
+                  <div class="owl-item active" style="width: 149.2px">
+                    <div class="item">
+                      <div class="logo-box">
+                        <img
+                          src="./NSP _ National Scholarship Portal_files/mygov.png"
+                        />
+                      </div>
+                    </div>
+                  </div>
+                  <div class="owl-item active" style="width: 149.2px">
+                    <div class="item">
+                      <div class="logo-box">
+                        <img
+                          src="./NSP _ National Scholarship Portal_files/DBT.png"
+                        />
+                      </div>
+                    </div>
+                  </div>
+                  <div class="owl-item active" style="width: 149.2px">
+                    <div class="item">
+                      <div class="logo-box">
+                        <img
+                          src="./NSP _ National Scholarship Portal_files/indiagov.png"
+                        />
+                      </div>
+                    </div>
+                  </div>
+                  <div class="owl-item" style="width: 149.2px">
+                    <div class="item">
+                      <div class="logo-box">
+                        <img
+                          src="./NSP _ National Scholarship Portal_files/di.png"
+                        />
+                      </div>
+                    </div>
+                  </div>
+                  <div class="owl-item cloned" style="width: 149.2px">
+                    <div class="item">
+                      <div class="logo-box">
+                        <img
+                          src="./NSP _ National Scholarship Portal_files/meity.png"
+                        />
+                      </div>
+                    </div>
+                  </div>
+                  <div class="owl-item cloned" style="width: 149.2px">
+                    <div class="item">
+                      <div class="logo-box" style="padding-top: 10px">
+                        <img
+                          height="35"
+                          width="70"
+                          src="./NSP _ National Scholarship Portal_files/logo_nic.png"
+                        />
+                      </div>
+                    </div>
+                  </div>
+                  <div class="owl-item cloned" style="width: 149.2px">
+                    <div class="item">
+                      <div class="logo-box">
+                        <img
+                          src="./NSP _ National Scholarship Portal_files/mygov.png"
+                        />
+                      </div>
+                    </div>
+                  </div>
+                  <div class="owl-item cloned" style="width: 149.2px">
+                    <div class="item">
+                      <div class="logo-box">
+                        <img
+                          src="./NSP _ National Scholarship Portal_files/DBT.png"
+                        />
+                      </div>
+                    </div>
+                  </div>
+                  <div class="owl-item cloned" style="width: 149.2px">
+                    <div class="item">
+                      <div class="logo-box">
+                        <img
+                          src="./NSP _ National Scholarship Portal_files/indiagov.png"
+                        />
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="owl-nav disabled">
+                <button type="button" role="presentation" class="owl-prev">
+                  <span aria-label="Previous">‹</span></button
+                ><button type="button" role="presentation" class="owl-next">
+                  <span aria-label="Next">›</span>
+                </button>
+              </div>
+              <div class="owl-dots disabled"></div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </main>
+
+    <footer>
+      <div class="container-fluid">
+        <div class="row d-flex justify-content-center align-items-center">
+          <div class="col-md-12">
+            <ul class="nav footer-nav justify-content-center">
+              <li class="nav-item">
+                <a class="nav-link" href="#">Copyright Policy </a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="#"> Privacy Policy </a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="#"> Terms and Conditions </a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="#"> Disclaimer </a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="#"> Hyperlink </a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="#"> Site Map</a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <!-- <div class="last-update-bg">Last update on 01 June 2024</div> -->
+    </footer>
