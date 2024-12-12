@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Scholarship Registration Form</title>
+  <link rel="stylesheet" href="./Style.css">
+</head>
+<body>
+  <div class="container">
+    <h1>Scholarship Registration</h1>
+    <form id="scholarship-form">
+      <!-- Personal Information -->
+      <fieldset>
+        <legend>Personal Information</legend>
+        <label for="fullName">Full Name *</label>
+        <input type="text" id="fullName" name="fullName" placeholder="Enter your full name" required>
+        
+        <label for="email">Email Address *</label>
+        <input type="email" id="email" name="email" placeholder="Enter your email" required>
+        
+        <label for="phone">Phone Number *</label>
+        <input type="tel" id="phone" name="phone" placeholder="123-456-7890" pattern="[0-9]{3}-[0-9]{3}-[0-9]{4}" required>
+        
+        <label for="dob">Date of Birth *</label>
+        <input type="date" id="dob" name="dob" required>
+        
+        <label for="gender">Gender *</label>
+        <select id="gender" name="gender" required>
+          <option value="" disabled selected>Select your gender</option>
+          <option value="male">Male</option>
+          <option value="female">Female</option>
+          <option value="other">Other</option>
+        </select>
+      </fieldset>
+
+      <!-- Academic Details -->
+      <fieldset>
+        <legend>Academic Details</legend>
+        <label for="university">University/School Name *</label>
+        <input type="text" id="university" name="university" placeholder="Enter your university or school name" required>
+        
+        <label for="course">Course Name *</label>
+        <input type="text" id="course" name="course" placeholder="Enter your course name" required>
+        
+        <label for="gpa">Current GPA/Percentage *</label>
+        <input type="number" id="gpa" name="gpa" placeholder="Enter your GPA or percentage" step="0.01" min="0" max="100" required>
+      </fieldset>
+
+      <!-- Documents -->
+      <fieldset>
+        <legend>Upload Documents</legend>
+        <label for="resume">10th Marksheet *</label>
+        <input type="file" id="resume" name="resume" accept=".pdf,.doc,.docx" required>
+        
+        <label for="transcript">Upload Transcript *</label>
+        <input type="file" id="transcript" name="transcript" accept=".pdf,.jpg,.jpeg,.png" required>
+      </fieldset>
+
+      <!-- Submit -->
+      <button type="submit">Submit Application</button>
+    </form>
+  </div>
+
+  <script src="./script.js"></script>
+</body>
+</html>
